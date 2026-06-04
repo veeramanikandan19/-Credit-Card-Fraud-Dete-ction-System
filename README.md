@@ -160,6 +160,8 @@ Or run the notebook directly in Google Colab.
     ├── amount_distribution.png
     ├── heatmap.png
     └── risk_analysis.png
+
+
 📊 Sample Output
 <img width="567" height="473" alt="image" src="https://github.com/user-attachments/assets/d0572141-d6b2-4152-9d17-9b03118fdb35" />
 <img width="849" height="435" alt="image" src="https://github.com/user-attachments/assets/b703621e-31f8-4c66-8e74-e7161a9742f3" />
